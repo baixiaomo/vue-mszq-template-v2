@@ -51,7 +51,7 @@
     "nprogress": "0.2.0",
     "qs": "^6.9.3",
     "screenfull": "4.0.0",
-    "showdown": "1.8.6",
+    "showdown": "1.9.1",
     "sortablejs": "1.7.0",
     "tui-editor": "1.2.7",
     "url-search-params-polyfill": "^7.0.0",
